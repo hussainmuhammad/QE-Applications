@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+/*Styling for page container*/
+.container{
+	margin: 100%;
+}
+
+h1{
+	text-align:center;
+}
+
+#textContainer{
+	width:200px;
+}
